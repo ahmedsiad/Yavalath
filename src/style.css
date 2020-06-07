@@ -1,0 +1,34 @@
+body {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5em;
+    background-color: #f1f4f9;
+}
+
+#rules {
+    width: 15em;
+    text-align: center;
+    top: 3em;
+    left: 10em;
+    user-select: none;
+}
+
+#ui {
+    text-align: center;
+    top: 3em;
+    left: 45em;
+}
+
+div {
+    position: absolute;
+    top: 2em;
+    left: 15em;
+}
+
+span {
+    display: inline-flex;
+    align-items: center;
+}
+
+canvas {
+    /*display: inline;*/
+}
